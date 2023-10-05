@@ -1,4 +1,4 @@
-# BeanSpeciesDetectionWithML
+# Bean Species Detection With Machine Learning
 A project to cluster and classify the bean species with machine learning models.
 The data that will be used in this project is extracted from several bean species images.
 Feature descriptions are provided in "data-description.txt" 
